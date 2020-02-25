@@ -22,8 +22,7 @@ import openpyxl
 import csv
 import re
 import nltk
-from nltk import ngrams
-from outlook_msg import Message
+from nltk import ngr
 import json
 import pyodbc
 import camelot
